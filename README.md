@@ -9,10 +9,7 @@ The [main notebook](https://github.com/lots-of-things/Story2Hallucination/blob/m
 
 You can easily open the notebook in Google Colab here.
 
-[![Open In Colab][colab-badge]][colab-notebook]
-
-[modified colab-notebook]: <https://colab.research.google.com/drive/1ogEOJ2b6YLINe-1W5RrAzRtxwk00X68L?authuser=1#scrollTo=kWfYQ7yvE6qr&uniqifier=1>
-[colab-badge]: <https://colab.research.google.com/assets/colab-badge.svg>
+[modified colab notebook](https://colab.research.google.com/drive/1ogEOJ2b6YLINe-1W5RrAzRtxwk00X68L?authuser=1#scrollTo=kWfYQ7yvE6qr&uniqifier=1)
 
 For more info please see the [Big Sleep repo](https://github.com/lucidrains/big-sleep/) and [this blog post](https://bonkerfield.org/2021/01/story2hallucination/).
 
