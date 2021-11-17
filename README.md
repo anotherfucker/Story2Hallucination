@@ -1,4 +1,4 @@
-# Story2Hallucination
+# Story2Hallucination with skimage.metrics import structural_similarity as ssim and compare_ssim tweak
 
 This is a Colab notebook used to render paragraphs and whole stories of text as animations using [Big Sleep](https://github.com/lucidrains/big-sleep/).  The animations from the stories look wild, hence, Story2Hallucination.
 
@@ -11,7 +11,7 @@ You can easily open the notebook in Google Colab here.
 
 [![Open In Colab][colab-badge]][colab-notebook]
 
-[colab-notebook]: <https://colab.research.google.com/drive/1cCo7z-HaoiUCqvPJJTjczmJl-_iWCcCl?usp=sharing>
+[modified colab-notebook]: <https://colab.research.google.com/drive/1ogEOJ2b6YLINe-1W5RrAzRtxwk00X68L?authuser=1#scrollTo=kWfYQ7yvE6qr&uniqifier=1>
 [colab-badge]: <https://colab.research.google.com/assets/colab-badge.svg>
 
 For more info please see the [Big Sleep repo](https://github.com/lucidrains/big-sleep/) and [this blog post](https://bonkerfield.org/2021/01/story2hallucination/).
